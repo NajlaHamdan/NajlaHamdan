@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Alt text](./wave.svg)
-<img src="./wafe.svg">
+<img src="./wave.svg">
