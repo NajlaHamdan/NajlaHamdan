@@ -3,6 +3,8 @@
 <!--
 **NajlaHamdan/NajlaHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Alt text](./wave.svg)
+<img src="./wafe.svg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
