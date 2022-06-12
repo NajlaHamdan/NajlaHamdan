@@ -1,4 +1,4 @@
-### Hi there 👋 I am Najla 
+### Hi  👋 I am Najla 
 #### Full Stack developer 
 ## About me
 Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currentl a full Stack developer in Thaka and technology for cybersecurity services .
