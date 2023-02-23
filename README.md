@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <svg>
-<use xlink:href="patternId"/>
+<use xlink:href="https://github.com/NajlaHamdan/NajlaHamdan/svgd.svg#bg_pattern"/>
 </svg>
 
 
