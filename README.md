@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <br>
 
 -----
-<a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="35"/></a>
-<a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="35" /></a>
+<a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="350"/></a>
+<a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="350" /></a>
 <br>
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
