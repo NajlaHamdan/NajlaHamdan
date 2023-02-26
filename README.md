@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/NajlaHamdan/">
   <img src="https://github-readme-stats.vercel.app/api?username=NajlaHamdan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NajlaHamdan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="350"  alt="NajlaHamdan"/>
 
