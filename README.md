@@ -1,4 +1,3 @@
-### Hi  👋 I am Najla 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;I+am+IT+honor+Graduate;I+am+Full+Stack+Developer;I+am+also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
   </p>
@@ -6,8 +5,11 @@
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//user-svgrepo-com.svg" width="35"><b> About me </b>
 <br>
-
-Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services .
+ I am fresh graduated from Information technology department with second honor at Qassim university , I have 6 months as a practical training in web development and my graduation project in Artificial intelligence was published at International Journal of online and biomedical Engineering . 
+ 
+ 
+ 
+<!-- Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services . -->
 <!--
 **NajlaHamdan/NajlaHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [alt text](./images/waves.svg)
@@ -27,7 +29,8 @@ Here are some ideas to get you started:
 <br>
 
 -----
-
+<a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="35"/></a>
+<a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="35" /></a>
 <br>
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
@@ -50,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35">
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35"> <b> Let's Connect..!</b>
 <br>
 <div align='left'>
   
