@@ -2,8 +2,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;I+am+IT+honor+Graduate;I+am+Full+Stack+Developer;I+am+also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
   </p>
-<!--  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** -->
- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+  <br>
+
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//user-svgrepo-com.svg" width="35"><b> About me </b>
+<br>
 
 Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services .
 <!--
@@ -28,9 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-## <img src="https://github.com/NajlaHamdan/NajlaHamdan/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
