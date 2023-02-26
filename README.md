@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <br>
 
 -----
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//cookie-svgrepo-com.svg" width="35"><b> Front-end projects </b>
+
 <a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="350"/></a>
 <a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="350" /></a>
 <br>
