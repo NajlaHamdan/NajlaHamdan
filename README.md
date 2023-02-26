@@ -5,8 +5,11 @@
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//user-svgrepo-com.svg" width="35"><b> About me </b>
 <br>
-
-Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services .
+ I am fresh graduated from Information technology department with second honor at Qassim university , I have 6 months as a practical training in web development and my graduation project in Artificial intelligence was published at International Journal of online and biomedical Engineering . 
+ 
+ 
+ 
+<!-- Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services . -->
 <!--
 **NajlaHamdan/NajlaHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [alt text](./images/waves.svg)
