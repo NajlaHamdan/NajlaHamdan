@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/NajlaHamdan/NajlaHamdan/images/chat-love-message-svgrepo-com.svg" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35">
 <br>
 <div align='left'>
   
