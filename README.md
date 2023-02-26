@@ -1,4 +1,3 @@
-### Hi  👋 I am Najla 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;I+am+IT+honor+Graduate;I+am+Full+Stack+Developer;I+am+also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
   </p>
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35">
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35"> <b> Let's Connect..!</b>
 <br>
 <div align='left'>
   
