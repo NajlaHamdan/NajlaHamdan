@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
