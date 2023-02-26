@@ -1,10 +1,14 @@
 ### Hi  👋 I am Najla 
-#### Full Stack developer 
-## About me
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;I+am+IT+honor+Graduate;I+am+Full+Stack+Developer;I+am+also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
+  </p>
+<!--  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** -->
+ ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services .
 <!--
 **NajlaHamdan/NajlaHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[alt text](./images/waves.svg)
 
 Here are some ideas to get you started:
 
@@ -17,9 +21,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg>
-<use xlink:href="patternId"/>
-</svg>
+<br>
+<br>
+
+-----
+
+<br>
 
 
-<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(1) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(174, 100%, 29%, 1)'/><path d='M45.69 13.342c-1.677.945-3.557 1.6-5.48 1.588-1.922-.012-3.795-.691-5.462-1.653-1.668-.962-3.156-2.202-4.637-3.435-1.48-1.232-2.97-2.47-4.641-3.427-1.67-.957-3.547-1.628-5.47-1.628-1.923 0-3.8.67-5.47 1.628-1.67.956-3.161 2.195-4.641 3.427-1.48 1.233-2.97 2.473-4.637 3.435-1.667.962-3.54 1.641-5.463 1.653-1.922.012-3.802-.643-5.478-1.588v13.316c1.676-.945 3.556-1.6 5.478-1.588 1.923.012 3.796.691 5.463 1.653 1.668.962 3.156 2.202 4.637 3.435 1.48 1.232 2.97 2.47 4.641 3.427 1.67.957 3.547 1.628 5.47 1.628 1.923 0 3.8-.67 5.47-1.628 1.67-.956 3.161-2.195 4.641-3.427 1.48-1.233 2.97-2.473 4.637-3.435 1.667-.962 3.54-1.641 5.463-1.653 1.922-.012 3.802.643 5.478 1.588z'  stroke-width='1.5' stroke='hsla(226, 40%, 92%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(#a)'/></svg>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://github.com/NajlaHamdan/NajlaHamdan/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=NajlaHamdan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NajlaHamdan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="350"  alt="NajlaHamdan"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+  
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/Najla-alofi" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  NajlaHamdan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/NajlaHamdan" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  NajlaHamdan-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:NajlaAlofii@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  NajlaHamdan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
