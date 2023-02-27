@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;IT+honor+Graduate;Full+Stack+Developer;also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=30&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;IT+honor+Graduate;Full+Stack+Developer;also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
   </p>
   <br>
 
