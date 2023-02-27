@@ -1,5 +1,6 @@
+<br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;I+am+IT+honor+Graduate;I+am+Full+Stack+Developer;I+am+also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+new+Roman&size=25&pause=1000&color=B185DB&width=435&lines=Hi+I+am+Najla+Hamdan;IT+honor+Graduate;Full+Stack+Developer;also+interesting+in+AI;See+my+projects+down" alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -7,9 +8,8 @@
 <br>
  I am fresh graduated from Information technology department with second honor at Qassim university , I have 6 months as a practical training in web development and my graduation project in Artificial intelligence was published at International Journal of online and biomedical Engineering . 
  
+ <br>
  
- 
-<!-- Recent honor graduate from Information technology , published my graduation project on IJOE jornal , with experience in web development for 3 months in business and research development company and trainee for 3 months at Tuwaiq programming camp currently a full Stack developer in Thaka and technology for cybersecurity services . -->
 <!--
 **NajlaHamdan/NajlaHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [alt text](./images/waves.svg)
@@ -25,21 +25,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-<br>
 
------
+
+
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//cookie-svgrepo-com.svg" width="35"><b> Front-end projects </b>
-
+<br>
+<p align="center">
 <a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="350"/></a>
 <a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="350" /></a>
-<br>
+</p>
+	<br>
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/bar-svgrepo-com.svg" width="35"><b> Github Stats </b>
 <br>
-
 <div align="center">
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/NajlaHamdan/">
   <img src="https://github-readme-stats.vercel.app/api?username=NajlaHamdan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NajlaHamdan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7251b5&icon_color=a06cd5&text_color=9163cb&bg_color=0,dac3e8,fff" width="350"  alt="NajlaHamdan"/>
 
@@ -47,13 +47,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
-<br>
 
------
-
-<br>
-<br>
 
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/chat-love-message-svgrepo-com.svg" width ="35"> <b> Let's Connect..!</b>
 <br>
@@ -70,14 +64,6 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a href="https://twitter.com/NajlaHamdan" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  NajlaHamdan-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
 <a href="mailto:NajlaAlofii@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  NajlaHamdan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
@@ -87,8 +73,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 
+Credit: [Najla Hamdan](https://linkedin.com/in/Najla-alofi)
+
+Last Edited on: 27/2/2023
