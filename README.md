@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## <img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images//cookie-svgrepo-com.svg" width="35"><b> Front-end projects </b>
 <br>
 <p align="center">
-<a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="350"/></a>
+<a href="https://advanced-css-course-weld.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Natours.png" width="350" /></a>
 <a href="https://advanced-css-course-nayq.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Trillo.png" width="350" /></a>
 <a href="https://advanced-css-course-7vkz.vercel.app/"><img src="https://github.com/NajlaHamdan/NajlaHamdan/blob/main/images/Nexter.png" width="350" /></a>
 </p>
